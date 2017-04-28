@@ -1,0 +1,5 @@
+Dictionary for a little programmer:
+1) search explanation by appellation
+2) add new definition
+3) show all appellations alphabetically
+0) exit
