@@ -8,3 +8,9 @@ ASCII TABLE,"ASCII (pronounced a-skee, rhymes with 'pass-key'), is a table of ch
 MODULE,"A module is a file containing Python definitions and statements. The file name is the module name with the suffix .py appended. Within a module, the module’s name (as a string) is available as the value of the global variable __name__. For instance, use your favorite text editor to create a file called fibo.py in the current directory with the following contents:",python reference manual
 PYTHON,"python is code language.",my knowledge
 MENTOR,is teacher,wikipedia
+INTEGER NUMBER,"An integer (from the Latin integer meaning ""whole"") is a number that can be written without a fractional component. For example, 21, 4, 0, and −2048 are integers, while 9.75, 5 1⁄2, and √2 are not.",wikipedia
+STRING,"A string in Python is a sequence of characters. Strings are immutable. This means that once defined, they cannot be changed. Many Python methods, such as replace() , join() , or split() modify strings. However, they do not modify the original string.",wikipedia
+VALUE ERROR,"Raised when a built-in operation or function receives an argument that has the right type but an inappropriate value, and the situation is not described by a more precise exception such as IndexError.",python reference library
+MODULO,"In computing, the modulo operation finds the remainder after division of one number by another (sometimes called modulus).",wikipedia
+PROGRAMMING LANGUAGE,"A programming language is a formal computer language designed to communicate instructions to a machine, particularly a computer. Programming languages can be used to create programs to control the behavior of a machine or to express algorithms.",wikipedia
+SYNTAX,"In computer science, the syntax of a computer language is the set of rules that defines the combinations of symbols that are considered to be a correctly structured document or fragment in that language.",wikipedia
